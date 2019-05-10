@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">qured_test</string>
+    <string name="error_message_title">Server error occurred</string>
+
+</resources>
